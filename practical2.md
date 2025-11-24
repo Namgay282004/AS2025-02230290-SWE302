@@ -2,6 +2,10 @@
 
 This practical demonstrates the implementation of comprehensive unit testing for a Go CRUD API using the Chi router, including test coverage analysis and HTML coverage reports.
 
+## Source Code
+
+View the complete implementation: [**Go CRUD Testing Repository**](https://github.com/Namgay282004/GO-CRUD-API)
+
 ## Overview
 
 This project showcases:
@@ -59,9 +63,6 @@ The test suite covers all major CRUD operations:
 - **HTML Reports**: Interactive coverage visualization with `go tool cover -html`
 - **Line Coverage**: Detailed analysis showing covered vs uncovered code paths
 
-## 🔗 Source Code
-
-View the complete implementation: [**Go CRUD Testing Repository**](https://github.com/Namgay282004/GO-CRUD-API)
 
 ## Project Structure
 

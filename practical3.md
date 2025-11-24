@@ -1,6 +1,8 @@
 
 # Shipping Fee Calculator: Specification-Based Testing
 
+### [Link to the source code](https://github.com/Namgay282004/Specification-testing)
+
 ## Overview
 
 This project demonstrates how to apply specification-based (black-box) testing techniques—**Equivalence Partitioning**, **Boundary Value Analysis**, and **Decision Table Testing**—to a shipping fee calculator written in Go.  
@@ -84,4 +86,4 @@ Bugs often occur at the edges of valid ranges. Testing just below, at, and just 
 
 ---
 
-### [Link to the source code](https://github.com/Namgay282004/Specification-testing)
+

@@ -2,6 +2,10 @@
 
 This practical demonstrates the implementation of automated end-to-end testing using Playwright, including CI/CD integration with GitHub Actions and Slack notifications.
 
+## Source Code
+
+View the complete implementation: [**Quiz Application Repository**](https://github.com/Namgay282004/Quiz)
+
 ## Overview
 
 This project showcases:
@@ -25,10 +29,6 @@ All test cases passed successfully in the GitHub Actions CI pipeline:
 Automated notifications triggered via push/commit events:
 
 ![Slack Notification](img/3.png)
-
-## 🔗 Source Code
-
-View the complete implementation: [**Quiz Application Repository**](https://github.com/Namgay282004/Quiz)
 
 ---
 *This practical demonstrates the complete testing workflow from local development to production deployment with automated notifications.*
