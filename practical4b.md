@@ -1,6 +1,6 @@
 # Practical 4b Implementation Report: OWASP ZAP DAST Integration
 
-### Source Code : [Sonarcloud SAST](https://github.com/Namgay282004/practical4a-cicd)
+### Source Code : [OWSAP ZAP](https://github.com/Namgay282004/practical4a-cicd)
 
 ## Executive Summary
 

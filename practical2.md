@@ -34,15 +34,15 @@ Interactive HTML coverage report showing line-by-line coverage analysis:
 
 The test suite covers all major CRUD operations:
 
-- ✅ **Create User Handler** (`POST /users`)
+-  **Create User Handler** (`POST /users`)
   - Tests successful user creation
   - Validates response status and JSON structure
   
-- ✅ **Get User Handler** (`GET /users/{id}`)
+-  **Get User Handler** (`GET /users/{id}`)
   - Tests successful user retrieval
   - Tests user not found scenarios
   
-- ✅ **Delete User Handler** (`DELETE /users/{id}`)
+-  **Delete User Handler** (`DELETE /users/{id}`)
   - Tests successful user deletion
   - Verifies user removal from in-memory store
 
